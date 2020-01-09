@@ -1,6 +1,5 @@
 " Colors
 syntax enable
-<<<<<<< HEAD
 colorscheme desert
 "colorscheme badwolf
 
