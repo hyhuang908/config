@@ -1,6 +1,8 @@
 " Colors
 syntax enable
+<<<<<<< HEAD
 colorscheme desert
+"colorscheme badwolf
 
 " Spaces & Tabs
 set tabstop=4 " number of visual spaces per TAB
