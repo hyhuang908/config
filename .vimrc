@@ -25,6 +25,7 @@ set nocompatible
 filetype plugin on
 filetype indent plugin on
 set cc=81
+set laststatus=2
 
 set modeline
 set hidden
